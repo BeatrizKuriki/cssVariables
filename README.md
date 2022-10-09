@@ -1,11 +1,10 @@
 # -cssVariables
 
-
+#em construção
 
 
 
 O Usuário é capaz de:
-- Utilizar o teclado, e pressionando as letras correspondentes ao que é mostrado na tela, simular uma bateria.
 
 ## Índice
 
